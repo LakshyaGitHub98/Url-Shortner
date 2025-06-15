@@ -14,6 +14,7 @@ A **Node.js-powered URL Shortener** that not only generates short links but also
 ## 📂 Project Structure  
 
 📦 url-shortener
+
 ┣ 📂 models
 
 ┃ ┣ 📜 urlModel.js
